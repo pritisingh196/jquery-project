@@ -42,7 +42,7 @@ Welcome to the **jQuery Projects Collection**! 🎯 This repository contains var
 ## 🚀 **How to Run the Projects?**  
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-username/jquery-projects.git
+   git clone https://github.com/pritisingh196/jquery-projects.git
    cd jquery-projects
    ```  
 2. **Open Any Project**  
